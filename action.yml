@@ -1,0 +1,11 @@
+name: "Hello World TypeScript Action"
+description: "A cross-platform TypeScript action example"
+author: "Your Name"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "message-circle"
+  color: "blue"
