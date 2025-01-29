@@ -1,6 +1,12 @@
-# Hello World TypeScript Action
+# Awesome Action Starter
 
-A cross-platform TypeScript action that can be run on GitHub Actions, GitLab CI, or Bitbucket Pipelines.
+Awesome cross-platform TypeScript action starter that can be run on GitHub Actions, GitLab CI, or Bitbucket Pipelines.
+
+[Create new repository from this template](https://github.com/new?template_name=awesome-action-starter&template_owner=mathio).
+
+Read more about [Building Cross-Platform CI/CD Actions with Docker](https://dev.to/mathio/building-cross-platform-cicd-actions-with-docker-3c9o).
+
+If you like this, _start this repo ⭐_ and [follow me 🐦](https://twitter.com/mathio28)
 
 ## Usage
 
